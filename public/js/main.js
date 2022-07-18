@@ -47,7 +47,7 @@ const tempStatus="Clouds";
             var date=now.getDate();
             let hours=now.getHours();
             let mins=now.getMinutes();
-            let perios ="AM";
+            let periods ="AM";
             if(hours>11){
                 periods="PM";
                 if(hours>12){
